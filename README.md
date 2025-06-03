@@ -14,7 +14,7 @@ Project Structure (MVC)
 The project follows the Model-View-Controller (MVC) pattern for clean separation of concerns:
 
 Model – Defines the structure of the user data using Mongoose (empModel.js, userModel.js).
-View – EJS templates render dynamic HTML pages (index.ejs, add.ejs, etc.).
+View – EJS templates render dynamic HTML pages (index.ejs, add.ejs, edit.ejs, login.ejs etc.).
 Controller – Handles logic and interactions between model and view (empController.js, userController.js).
 ---
 
@@ -144,7 +144,7 @@ Register User
 ![image](https://github.com/user-attachments/assets/88119c7e-d74a-43ae-87c7-67ba3867e58f)
 
 Login User
-![image](https://github.com/user-attachments/assets/a03134b5-61bc-4fc2-8b20-6813d4fb7d73)
+![image](https://github.com/user-attachments/assets/6e50ff6f-3953-4e1c-bcab-87f6c4beb1af)
 
 Home Page
 ![image](https://github.com/user-attachments/assets/28da0774-6ca7-42fe-a12d-316a40c5f589)

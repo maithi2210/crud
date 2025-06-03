@@ -42,22 +42,22 @@ Express project-Maithili/crud/
 ```
 ## Modules Used
 
-1. Express
+1. Express : 
 Used to create the backend server and define application routes. It handles HTTP requests and connects controllers to views.
 
-2. Mongoose
+2. Mongoose : 
 Acts as an Object Data Modeling (ODM) library for MongoDB. It defines schemas and performs database operations.
 
-3. EJS (Embedded JavaScript)
+3. EJS (Embedded JavaScript) :
 Templating engine to dynamically render HTML pages using server-side data like usernames, errors, and profile info.
 
-4. express-session
+4. express-session :
 Manages user sessions securely. It stores session data on the server and authenticates access to protected pages.
 
-5. bcrypt
+5. bcrypt :
 Used to hash user passwords during registration and validate them during login to ensure secure authentication.
 
-6. Bootstrap 5
+6. Bootstrap 5 :
 Provides a responsive, mobile-friendly, and visually appealing front-end interface with styled forms, tables, and alerts.
 ---
 

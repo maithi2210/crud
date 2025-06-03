@@ -13,6 +13,7 @@ The project follows the Model-View-Controller (MVC) pattern for clean separation
 Model – Defines the structure of the user data using Mongoose (empModel.js, userModel.js).
 View – EJS templates render dynamic HTML pages (index.ejs, add.ejs, etc.).
 Controller – Handles logic and interactions between model and view (empController.js, userController.js).
+
 crud/
 │
 ├── app.js # Main server file
